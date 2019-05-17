@@ -1,6 +1,8 @@
 # dynamics_simulation
 A fundamental dynamics simulation for beginner of physics
 
+![screenshot](https://github.com/kuma-panda/dynamics_simulation/blob/master/image.png)
+
 ## Description
 This software was designed to teach the fundamental dynamics to highschool students.  
 Simulation features is available associated to 'diagonal throwing' and 'movement on a plane with friction'.  
